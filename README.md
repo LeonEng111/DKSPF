@@ -5,7 +5,7 @@ This repository holds the implementation and description of our current paper (A
 
 > The proposed algorithms to support the findings of this study are still under early-stage development. We need further code organization and encapsulation for better demonstration.
 
-> Related issues or further assistance could be raised upon reasonable request.
+> Further assistance could be available upon reasonable request.
 
 - Contact Email: Leon | leonszu1996@gmail.com
 
